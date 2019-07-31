@@ -4,7 +4,7 @@
             "itemType": "write",
             "item": {
                 "itemName": "item name",
-                "itemModule": {},
+                "itemModule": "i am module",
                 "itemStem": "i am item stem and i am going to stem",
                 "itemType": "write"
             },
